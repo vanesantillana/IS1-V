@@ -1,0 +1,14 @@
+ERROR  : 15:23:21: Error: Error connecting to the server: could not translate host name "postgres" to address: Nombre o servicio desconocido
+
+ERROR  : 16:40:40: ERROR:  syntax error at or near "{"
+LINE 2: {
+        ^
+ERROR  : 16:40:45: ERROR:  syntax error at or near "{"
+LINE 2: {
+        ^
+ERROR  : 16:40:46: ERROR:  syntax error at or near "{"
+LINE 2: {
+        ^
+ERROR  : 16:41:33: ERROR:  type "datetime" does not exist
+LINE 7: Birth_Date datetime);
+                   ^
